@@ -1,0 +1,13 @@
+baseURL: 'https://pavancv.github.io/chintana/'
+languageCode : 'en-us'
+title : 'Attempt2'
+
+markup:
+  goldmark:
+      renderer:
+        unsafe: true
+
+relativeURLs : true
+
+Params:
+  booklist: data/books.yaml

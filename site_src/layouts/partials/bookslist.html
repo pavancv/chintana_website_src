@@ -1,0 +1,18 @@
+<section class="p-5">
+    <div class="row text-center ">
+    {{ range .Site.Data.books }}
+        {{ range . }}
+        <div class="col-md mb-3">
+            <div class="card bg-secondary text-light">
+                <div class="card-body text-center">
+                    <h3 class="card-title"> {{ .name }}</h3>
+                    <p class="card-text"> {{ .notes }} </p>
+                    <a href={{.ref}} class="btn btn-primary">Open Book</a>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+
+    {{ end }}
+    </div>
+</section>

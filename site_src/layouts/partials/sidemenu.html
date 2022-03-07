@@ -1,0 +1,23 @@
+
+{{ $menuFile  := (printf "%s"  .Params.book.menu) }} 
+{{ $current := .}}
+
+{{ with (index .Site.Data  $menuFile) }}
+
+      <nav class="navbar navbar-expand-lg flex-column " >
+         <div class="collapse navbar-collapse flex-column" id="bookmenu">
+         <p class="fs-3 mx-3"> {{ .book.title }}</p>
+         <hr>
+         <ul class="nav nav-pills flex-column mb-auto">
+   {{ range .book.chapters }}
+            <li class="nav-item">
+               <a href="{{ ref $current .ref }}" class="nav-link fs-5 px-0 py-1">
+                  {{ .name }}
+               </a>
+            </li>
+   {{ end }}
+
+         </ul>
+      </div> 
+      </nav>
+{{ end }}

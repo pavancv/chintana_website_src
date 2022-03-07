@@ -1,0 +1,13 @@
+
+<div class="card">
+    <div class="card-body  fs-5  mx-0 py-0" id="bg-shloka">
+    {{ .Inner | markdownify }}
+
+    {{- $show_link := cond .IsNamedParams (.Get "link") (.Get 0) -}}
+    {{ if ne  $show_link  "0"}}
+    <p class="text-center m-0 p-0 " >
+        <a href="{{ ref . $show_link }}" class="card-link fs-6 link-warning ">टीक / टिप्पणि</a>
+    </p>
+    {{ end }}
+    </div>
+</div>

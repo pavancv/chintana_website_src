@@ -1,0 +1,16 @@
+---
+#
+#  This yaml file is source of all book "cards" on the home page
+#  For each book in contents/books Provide the details here!
+#
+book_list:
+  - name: श्रीमत्भगवत्गीता
+    ref:  books/geeta
+    notes: "भाष्य टीका सहित"
+  - name: महाभारत तात्पर्यनिर्णय
+    ref: books/mtb
+    notes: "टिप्पणि टीका सहित"
+  - name: संस्कृत भाषाविचार
+    ref: books/sanskrit
+    notes: Notes on Language
+    

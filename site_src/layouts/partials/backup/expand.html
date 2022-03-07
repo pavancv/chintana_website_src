@@ -1,0 +1,17 @@
+{{ warnf "Expand shortcode is deprecated. Use 'details' instead." }}
+<div class="accordion" id="accordionExample ">
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingOne">
+        <button class="accordion-button fs-5 p-1 " type="button" data-bs-toggle="collapse" 
+                data-bs-target="#collapseOne" 
+                style=" background-color:#f8ecc2">
+            {{ default (i18n "Expand") (.Get 0) }}
+        </button>
+      </h2>
+      <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div class="accordion-body p-0 fs-4" >
+            {{ .Inner | markdownify }}
+        </div>
+      </div>
+    </div>
+  </div>
