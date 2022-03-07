@@ -1,12 +1,10 @@
 # chintana_website_src
 
 ## Motivation
-I found that गीताविवृत्ति by Sri RaghavendarTheertha Swamy is not available online (natively).
+I found that गीताविवृत्ति by Sri Raghavendra Theertha Swamy is not available online (natively).
 Most complete website for Bhagavadgeeta:- https://www.gitasupersite.iitk.ac.in/.  does not have commentary by SriRaghavendra Theerta.
 Hence this attempt.
 
-### Vision 
-    Website for easy reading of BhagavadGeeta and Other philosophy books 
 
 Most of us rely on scanned pages or Old style hard copy books. They have obvious disadvantages to having native online version (not scanned).
 
@@ -21,11 +19,17 @@ Most of us rely on scanned pages or Old style hard copy books. They have obvious
     - Unless whole book is scanned, disorganized
     - All the negatives of Hardcopy book continue to exist
 
+## Vision 
+    Website for easy reading of BhagavadGeeta and a few philosophy books
+    Website is organized into books
+    Each book has two different views:-
+        - List view: which can be used for Parayana
+        - Detailed view:- Each shloka's commentaries are provided
+
+
 
 ### This is a static website
 ### Hugo to used to generate the site. Bootstrap is used for CSS/JS.
-
-
 
 ### To contribute:-
 
@@ -33,10 +37,10 @@ Install Hugo --> https://gohugo.io/
 Install VSCode [For easy dev process]
 
 ### The source code is divided into two parts 
-    - Hugo contents - Actual Website Source code and the content [ This repo ] 
+    - Hugo contents -  Website Source code and the **content** [ This repo ] 
 
-The actual generated website :- https://pavancv.github.io/chintana/
+The  generated website :- https://pavancv.github.io/chintana/
 
-The generated website is submodule of this repo.
+The generated website is a sub-module of this repo.
 
 LICENSE:  MIT
