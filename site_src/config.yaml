@@ -1,6 +1,6 @@
 baseURL: 'https://pavancv.github.io/chintana/'
 languageCode : 'en-us'
-title : 'Attempt2'
+title : 'चिन्तन'
 
 markup:
   goldmark:

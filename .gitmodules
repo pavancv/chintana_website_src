@@ -1,0 +1,3 @@
+[submodule "chintana"]
+	path = chintana
+	url = https://github.com/pavancv/chintana.git
