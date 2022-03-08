@@ -3,6 +3,8 @@ title: "श्लोक १.१ - अर्जुनविशादयोग"
 date: 2022-02-20T10:43:44+05:30
 book:
     toc_page: false
+    next_page: shloka2
+    prev_page: None
     menu : geeta_menu
 ---
 

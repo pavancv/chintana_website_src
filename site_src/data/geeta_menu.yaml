@@ -1,7 +1,7 @@
 ---
 book:
   title : श्रीमत्भगवत्गीत
-  ref:  index
+  ref:  books/geeta/
   chapters:
       - name: अर्जुनविशादयोग
         ref: chapter1

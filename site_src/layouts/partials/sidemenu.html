@@ -4,9 +4,9 @@
 
 {{ with (index .Site.Data  $menuFile) }}
 
-      <nav class="navbar navbar-expand-lg flex-column " >
+      <nav class="navbar navbar-expand-md flex-column " >
          <div class="collapse navbar-collapse flex-column" id="bookmenu">
-         <p class="fs-3 mx-3"> {{ .book.title }}</p>
+         <a href="{{ ref $current .book.ref }}" class="fs-3 mx-3"> {{ .book.title }}</a>
          <hr>
          <ul class="nav nav-pills flex-column mb-auto">
    {{ range .book.chapters }}
