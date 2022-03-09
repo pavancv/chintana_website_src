@@ -2,6 +2,8 @@
 title:  "श्रीमत्भगवत्गीत"
 book:
     toc_page: true
+    next_page: chapter1/shloka1
+    prev_page: None
     menu : geeta_menu
 ---     
 

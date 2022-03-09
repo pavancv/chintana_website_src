@@ -4,7 +4,7 @@
     <summary class="fst-italic">{{ $summary | .Page.RenderString }}</summary>
     <div class="markdown-inner">
       {{/* .Inner | .Page.RenderString */}}
-      <p>{{ .Inner | markdownify }} </p>
+      {{ .Inner | markdownify }} 
     </div>
 </details>
   

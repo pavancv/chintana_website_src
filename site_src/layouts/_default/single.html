@@ -16,7 +16,7 @@
               {{ if eq $prev_page "None" }}
                 <li class="page-item disabled"><a class="page-link" href="#"><< Previous </a></li>
               {{ else }}
-                <li class="page-item"><a class="page-link" href="{{ref . .Params.book.next_page }}"><< Previous </a></li>
+                <li class="page-item"><a class="page-link" href="{{ref . .Params.book.prev_page }}"><< Previous </a></li>
               {{ end }}
 
               {{ if eq $next_page "None" }}
