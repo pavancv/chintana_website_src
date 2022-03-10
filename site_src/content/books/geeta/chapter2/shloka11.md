@@ -51,11 +51,14 @@ book:
 
 {{% /details %}}
 
-
 ---
 
 {{% details "पद विचार" %}}
 
-विट् :
+- विट् : 
+- *गीताभाष्य starts here !!*
 
+**Note the definition defers from other Acharyas.**
+- प्रज्ञावादा :  
+- गतासून्  :
 {{% /details %}}
