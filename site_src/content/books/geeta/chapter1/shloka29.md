@@ -1,17 +1,17 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "श्लोक १.२९  - अर्जुनविशादयोग"
+date: 2022-03-10T06:49:07+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
-    prev_page: None
-    menu : Fill Here!
+    next_page: shloka30
+    prev_page: shloka28
+    menu : geeta_menu
 ---
 
 
 
-## श्लोक TBD {class=text-center}
+### श्लोक XXX {class=text-center}
 
 <br/>
 

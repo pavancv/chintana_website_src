@@ -3,13 +3,13 @@
 {{$next_page := .Params.book.next_page }}
 {{$prev_page := .Params.book.prev_page }}
 
-<div class="container-fluid row mx-0  px-0 ">
+<div class="d-flex flex-row ms-auto justify-content-around mx-0  px-0 ">
 
-    <div class="container-fluid col-md-3 mx-0 "> 
+    <div class="flex-column  mx-sm-1 "> 
       {{ partial "sidemenu.html"  .}}
     </div>
    
-    <div class="container-fluid px-1 mx-1 col-lg-6 col-md-8" id="main_content"> 
+    <div class="flex-column flex-fill  px-1 mx-1 " id="main_content"> 
 
             <nav>
             <ul class="pagination pagination-sm justify-content-end">
@@ -24,15 +24,14 @@
               {{ else }}
                 <li class="page-item"><a class="page-link" href="{{ref . .Params.book.next_page }}">Next >></a></li>
               {{ end }}
-
             </ul>
             </nav>
+            
         {{ .Content }} 
     </div>
 
 
-    <div class="container-fluid mx-0 px-0 col-lg-2 ">
-
+    <div class="flex-column px-lg-3 mx-lg-3 ">
         {{ partial "toc"  . }}
     </div> 
 

@@ -18,7 +18,7 @@ Further, to aid Sanskrit learning, an attempt is made to provide contextual gram
 
 ---
 
-{{< details "श्रीमत्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" >}}
+{{% details "श्रीमत्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
 
 #### देवं नारायणं नत्वा सर्वदोषविवर्जितम्।  { class=text-center }
@@ -134,11 +134,12 @@ Further, to aid Sanskrit learning, an attempt is made to provide contextual gram
 
 #### उपोद्घातः समाप्तः | { class=text-center }
 
-{{< /details >}}
+{{% /details %}}
 
 ---
 
-{{< details  "श्रीराघवेन्द्रतीर्थयति विवृत्ति" >}}
+{{% details  "श्रीराघवेन्द्रतीर्थविरचित गीताविवृत्तिः" %}}
+
 
 
 ##### लक्ष्मीनरायणं नत्वा पूर्णबोदान्गुरूनपि ।      { class=text-center }
@@ -162,16 +163,20 @@ Further, to aid Sanskrit learning, an attempt is made to provide contextual gram
 धृतराष्ट्र उवाच -
 किम्?  इत्याह
 
-{{< /details >}}
+{{% /details %}}
 
 ---
 
-{{< details "पद विचार " >}}
+{{% details "पद विचार " %}}
 
 -  नत्वा 
 -  कुर्मः 
 
-{{< /details >}}
+{{% /details %}}
+
+<br/>
+
+###### [अर्जुनविशादयोग](chapter1)  >> {class=text-center}
 
 ---
 

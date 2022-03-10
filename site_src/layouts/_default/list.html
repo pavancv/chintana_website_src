@@ -1,16 +1,16 @@
 {{ define "listsPart" }}
 
 
-<div class="container-fluid  row mx-0 px-0" id="content">
-   <div class="container-fluid col-md-3 mx-0"> 
+<div class="d-flex flex-row justify-content-around mx-0  px-0 " id="content">
+   <div class="flex-column px-lg-3 mx-lg-3"> 
    {{ partial "sidemenu"  . }}
    </div>
 
-   <div class="container-fluid  m-1 px-0 col-lg-6 col-md-8 ">
+   <div class="flex-column flex-fill  px-1 mx-1 " id="main_content">
       {{  .Content }} 
    </div> 
 
-   <div class="container-fluid mx-0 px-0 col-lg-2 ">
+   <div class="flex-column px-lg-3 mx-lg-3 ">
       {{ partial "toc"  . }}
    </div> 
 
