@@ -1,6 +1,6 @@
 
 <div class="card">
-    <div class="card-body  fs-5  mx-0 py-0" id="bg-shloka">
+    <div class="card-body  mx-0 py-0" id="bg-shloka">
     {{ .Inner | markdownify}}
 
     {{- $show_link := cond .IsNamedParams (.Get "link") (.Get 0) -}}

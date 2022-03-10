@@ -4,37 +4,29 @@ date: 2022-03-10T06:49:10+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
-    prev_page: shloka29
+    next_page: shloka31
+    prev_page: shloka28
     menu : geeta_menu
 ---
 
-
-
-### श्लोक XXX {class=text-center}
+### श्लोक १.३० {class=text-center}
 
 <br/>
 
 {{< shloka  "0"  >}}
 
-#Fill  The Shloka Here
+गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।
+
+न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ।।१.३०।।
 
 {{< /shloka >}}
 
 ---
 
-
-{{% details "श्रीमत्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
-
-#Fill  The Shloka Here
-
-{{% /details %}}
-
----
-
 {{% details "श्रीराघवेन्द्रतीर्थविरचित गीताविवृत्तिः" %}}
 
-#Fill  The Shloka Here
+`त्वक्च` परितस्तप्यत `एव` । `अवस्थातुम` `च` `न`
+`शक्नोमि` । `मनः` `च मे` `भ्रमतीव` च ॥ 
 
 {{% /details %}}
 

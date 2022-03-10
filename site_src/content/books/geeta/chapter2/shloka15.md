@@ -1,17 +1,17 @@
 ---
-title: "श्लोक १.२९  - अर्जुनविशादयोग"
-date: 2022-03-10T06:49:07+05:30
+title: "श्लोक २.१५  - साङ्ययोग"
+date: 2022-03-10T19:42:51+05:30
 draft: false
 book:
     toc_page: true
-    next_page: shloka30
-    prev_page: shloka28
+    next_page: None
+    prev_page: shloka14
     menu : geeta_menu
 ---
 
 
 
-### श्लोक XXX {class=text-center}
+## श्लोक TBD {class=text-center}
 
 <br/>
 

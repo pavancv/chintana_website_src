@@ -16,6 +16,8 @@ book:
 This is an attempt to document learnings of श्रीमत् भगवत्गीता. The commentaries from श्रीमघ्वाचार्यः  and श्रीराघवेन्द्रतीर्थः are incorporated.
 Further, to aid Sanskrit learning, an attempt is made to provide contextual gramatical information.
 
+Note that गीताविवृत्ति appears to be not available in native format anywhere on web.
+
 ---
 
 {{% details "श्रीमत्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
