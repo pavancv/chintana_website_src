@@ -3,13 +3,13 @@
 {{$next_page := .Params.book.next_page }}
 {{$prev_page := .Params.book.prev_page }}
 
-<div class="d-flex flex-row ms-auto justify-content-around mx-0  px-0 ">
+<div class="d-flex flex-row ms-auto justify-content-start mx-0  px-0 ">
 
-    <div class="flex-column  mx-sm-1 "> 
+    <div class="flex-column   mx-sm-1 ">
       {{ partial "sidemenu.html"  .}}
     </div>
    
-    <div class="flex-column flex-fill  px-1 mx-1 " id="main_content"> 
+    <div class="flex-column flex-fill  px-1 mx-1 " id="main_content">
 
             <nav>
             <ul class="pagination pagination-sm justify-content-end">

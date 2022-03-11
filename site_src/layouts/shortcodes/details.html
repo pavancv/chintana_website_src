@@ -1,9 +1,20 @@
-<details {{ if or (.Get "open") (in .Params "open") }}open{{ end }}>
-    {{- $summary := cond .IsNamedParams (.Get "title") (.Get 0) -}}
-    <br/>
-    <summary class="fst-italic fs-5">{{ $summary | .Page.RenderString }}</summary>
-    <div class="markdown-inner">
-      {{ .Inner  }} </div>
 
-</details>
-  
+{{ $header := default (i18n "Expand") (.Get 0) }}
+{{ $unique_id := substr (md5 .Inner) 0 16 }}
+
+<div class="accordion accordion-flush mx-1" id="Content">
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingOne">
+        <button class="accordion-button fs-5 " type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapse{{$unique_id}}"
+                style="background-color:#f8ecc2">
+            {{ default (i18n "Expand") (.Get 0) }}
+        </button>
+      </h2>
+      <div id="collapse{{$unique_id}}"   class="accordion-collapse collapse "
+           aria-labelledby="headingOne" data-bs-parent="#Content">
+        <div class="accordion-body p-0 fs-4"  id="bg-shloka">
+            {{ .Inner }}  </div>
+          </div>
+        </div>
+      </div>
