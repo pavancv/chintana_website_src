@@ -31,10 +31,8 @@ book:
 
 {{% /details %}}
 
-
----
-
 {{% details "पद विचार" %}}
 
+- लुप्त : robbed of
 
 {{% /details %}}

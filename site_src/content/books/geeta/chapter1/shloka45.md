@@ -36,9 +36,7 @@ book:
 {{% /details %}}
 
 
----
-
 {{% details "पद विचार" %}}
-
+- अहो बत : Sigh 
 
 {{% /details %}}

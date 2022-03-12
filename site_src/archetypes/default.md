@@ -1,12 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: false
+draft: true
 book:
     toc_page: true
     next_page: None
     prev_page: None
-    menu : Fill Here!
+    menu : FillHere!
 ---
 
 
@@ -26,20 +26,19 @@ book:
 
 {{% details "श्रीमत्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
-#Fill  The Shloka Here
+#Fill  Tippani here!!
 
 {{% /details %}}
 
----
+
 
 {{% details "श्रीराघवेन्द्रतीर्थविरचित गीताविवृत्तिः" %}}
 
-#Fill  The Shloka Here
+#Fill  Tippani here!!
 
 {{% /details %}}
 
 
----
 
 {{% details "पद विचार" %}}
 

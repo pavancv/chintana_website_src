@@ -32,9 +32,8 @@ book:
 {{% /details %}}
 
 
----
-
 {{% details "पद विचार" %}}
 
+- कृत्स्नम् : All, Entire
 
 {{% /details %}}
