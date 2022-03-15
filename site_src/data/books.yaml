@@ -6,10 +6,10 @@
 book_list:
   - name: श्रीमत्भगवत्गीता
     ref:  books/geeta
-    notes: "भाष्य टीका सहित"
-  - name: महाभारत तात्पर्यनिर्णय
-    ref: books/mtb
-    notes: "टिप्पणि टीका सहित"
+    notes: "भाष्य/टीका सहित"
+  - name: श्रीराघवेन्द्रगुरुस्तोत्र
+    ref: books/rgs
+    notes: "अर्थसहित"
   - name: संस्कृत भाषाविचार
     ref: books/sanskrit
     notes: Notes on Language

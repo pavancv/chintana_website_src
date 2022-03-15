@@ -13,11 +13,11 @@ book:
 
 #### ૐ श्री गुरुभ्यो नमः हरिः  ૐ  { class=text-center }
 
-This is an attempt to document learnings of श्रीमत् भगवत्गीता. The commentaries from श्रीमघ्वाचार्यः  and श्रीराघवेन्द्रतीर्थः are incorporated.
+This is an attempt to document learnings of श्रीमत् भगवत्गीता. The commentaries from श्रीमध्वाचार्यः  and श्रीराघवेन्द्रतीर्थः are incorporated.
 Further,  an attempt is made to provide additional 
 contextual information.
 
-Note : गीताविवृत्ति (Vivruthi) appears to be not available in native format anywhere on web.
+Note : गीताविवृति (Vivruthi) appears to be not available in native format anywhere on web.
 
 ---
 
@@ -129,7 +129,7 @@ Note : गीताविवृत्ति (Vivruthi) appears to be not availab
 
 
 
-{{% details  "श्रीराघवेन्द्रतीर्थविरचित गीताविवृत्तिः" %}}
+{{% details  "श्रीराघवेन्द्रतीर्थविरचित गीताविवृतिः" %}}
 
 
 

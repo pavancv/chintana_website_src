@@ -1,0 +1,11 @@
+---
+book:
+  title : संस्कृतभाषाविचार
+  ref:  books/sanskrit
+  chapters:
+      - name: तिङन्ताः/Verbs
+        ref: sans_verbs
+      - name: सुबन्ताः/Nouns
+        ref: sans_nouns
+      - name: अच् सन्धयः
+        ref: sans_chapter3
