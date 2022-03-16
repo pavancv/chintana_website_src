@@ -13,11 +13,20 @@ book:
 
 #### ૐ श्री गुरुभ्यो नमः हरिः  ૐ  { class=text-center }
 
-This is an attempt to document learnings of श्रीमत् भगवत्गीता. The commentaries from श्रीमध्वाचार्यः  and श्रीराघवेन्द्रतीर्थः are incorporated.
+
+This is an attempt to convert the गीताविवृति by श्रीराघवेन्द्रतीर्थः to native (utf-8) format as  it appear is not available anywhere on web.
+
+For reference गीताभाष्य by श्रीमत्मध्वाचार्यः is also included.
+
+I have used following websites as references:-
+
+[Gita Super Site](https://www.gitasupersite.iitk.ac.in/)
+
+[Srimadhvyasa blog](https://srimadhvyasa.wordpress.com/)
+
+
 Further,  an attempt is made to provide additional 
 contextual information.
-
-Note : गीताविवृति (Vivruthi) appears to be not available in native format anywhere on web.
 
 ---
 

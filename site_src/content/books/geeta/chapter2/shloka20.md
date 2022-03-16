@@ -4,7 +4,7 @@ date: 2022-03-11T12:06:40+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
+    next_page: shloka21
     prev_page: shloka19
     menu : geeta_menu
 ---

@@ -7,15 +7,15 @@ book:
 ---  
 
 #### Aim:
-This is an experiment to covert some important philosophical books to   native computer format (encoded in UTF-8). Having the books in native format helps in :-
- - Rendering them neatly on various devices (such as phone and tablets)
+This is an experiment to covert philosophical and sanskrit books to native computer format (encoded in UTF-8). Having the books in native format helps in :-
+ - Rendering them neatly on various devices (such as phone and tablets). This is the main motivation.
  - Unlocks search functionality which helps in cross-referencing/searching.
- - Having in a shared Git repository help in collaboration and fixing error quickly.
+ - a shared Git repository helps in collaboration.
 
 <br/>
 
 #### Contact
-You can raise an issue at [github](https://github.com/pavancv/chintana_website_src/issues) to either provide any specific advice or comments.
+You can raise an issue at **[Github]**(https://github.com/pavancv/chintana_website_src/issues) to either provide any specific advice or comments.
 
 <br/>
 

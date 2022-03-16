@@ -1,17 +1,17 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "श्लोक २.३०  - साङ्ययोग"
+date: 2022-03-15T20:45:26+05:30
 draft: false
 book:
     toc_page: true
     next_page: None
-    prev_page: None
+    prev_page: shloka29
     menu : FillHere!
 ---
 
 
 
-## श्लोक TBD {class=text-center}
+## श्लोक २.३० {class=text-center}
 
 <br/>
 
