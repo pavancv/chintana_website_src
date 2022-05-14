@@ -43,4 +43,15 @@ The  generated website :- https://pavancv.github.io/chintana/
 
 The generated website is a sub-module of this repo.
 
+### Command to run
+#### Local server
+- hugo server -D
+#### Generate website
+- hugo -d ../chintana (from site_src)
+
+#### Commit
+- First commit and push chintana dir
+- Add git module also while commiting to parent git repo(chintana_website_src)
+
+
 LICENSE:  MIT
