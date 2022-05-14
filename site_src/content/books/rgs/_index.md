@@ -25,7 +25,7 @@ book:
 
 ### पदच्छेद     
 
-श्री पूर्णबोध गुरु तीर्थ पयोब्दि पारा,  कामारि माक्षविषमाक्षशिरः स्पृशन्ती,  पूर्वोत्तराऽमित तरंगचरत्सुहंसा,    देवालि सेवित पराङ्घ्रि पयोज लग्ना  
+श्री पूर्णबोध गुरु तीर्थ पयोब्दि पारा,  कामारि माक्षविषमाक्ष शिरः स्पृशन्ती,  पूर्वोत्तर अमित तरंगचरत् सुहंसा,  देवालि सेवित पराङ्घ्रि पयोज लग्ना  
 
 ---  
 
@@ -54,14 +54,15 @@ Shloka can be interpreted in two ways. One towards Sri Raghavendra and other tow
 `स्पृशन्ती` - One who touches.
  : *One who touches head of Shiva i.e Ganga.*
 
-`पूर्वोत्तर` - Opposite of East(पूर्व) i.e West, One who flows westwards
+`पूर्वोत्तर` - East and Opposite of East i.e West
 `अमिततरंग` - Countless waves `चरत्` - Travelling (moving) 
 `सुहंसा` - Beatiful/Good(सु) Swan(हंस)
 
 `देवालि` - Rows(आलि) of Devas 
 `सेवित` - Served by
 `पर` - Vishnu `अङ्घ्रि` - Foot  `पयोज` - Lotus
- `लग्ना` - Connected with : *One who flows feet of Vishnu which is served  Devas waiting in queues(lines)*
+ `लग्ना` - Connected with 
+ : *One who flows under the feet of Vishnu which is served  Devas waiting in queues(lines)*
 
 - Moon was born during Samudhra Mathana
 - कामारि : Manmatha's Enemy 
@@ -75,11 +76,11 @@ Shloka can be interpreted in two ways. One towards Sri Raghavendra and other tow
  : *One who works have Shastras which provide complete Knoweledge of Vedas as the Limit*
 
 *अथवा* :
-`श्रीपूर्णबोध` - Sri Madhavcharya, `गुरु` - Teacher `तीर्थ` - Shastras `पयोब्दिपारा` : Limits
+`श्री पूर्णबोध` - Vedas , `गुरु` - Teacher `तीर्थ` - Shastras `पयोब्दिपारा` : Limits   
 
-`कामारिमाक्षविषमाक्ष` - Shiva `शिरः` - Head `स्पृशन्ती` - Touching  
+`कामारिमाक्षविषमाक्ष` - Shiva `शिरः` - Head `स्पृशन्ती` - Touching 
 `पूर्वोत्तर` -  पूर्व and उत्तर मीमांस 
-`अमिततरंग` - Well Versed `चरत्` - Serving
+`अमिततरंग` - Well Versed `चरत्` - Serving 
 `सुहंसा` - Knowledgeable persons
 
 - Lakshmi is the Abhimani Devi of Vedas
@@ -100,7 +101,7 @@ Shloka can be interpreted in two ways. One towards Sri Raghavendra and other tow
 {{% details "पदच्छेद /अर्थ" %}}
 
 ### पदच्छेद  
-दुर्वादि अजापतिगिलैः,  जीवेश भेद गुणपूर्तिजगत्,  सुसत्त्व, नीचोच्चभाव मुख, नक्र गणैः, समेता, गुरुराघवेन्द्र, वाग्देवता सरित्, अमुम्, विमली, करोतु
+जीवेश भेद गुणपूर्तिजगत्,  सुसत्त्व, नीचोच्चभाव मुख, नक्र गणैः, समेता, दुर्वादि अजापतिगिलैः, गुरुराघवेन्द्र, वाग्देवता सरित्, अमुम्, विमली, करोतु
 
 ---  
 
@@ -109,10 +110,7 @@ In continuation from previous Sloka.
 
 ---  
 
-#### *गङ्गा पर* :    
-`दुर्वादि` - Coarse Sounding 
-`अजापति` - Goats 
-`गिलैः` - Swallowing   
+#### *गङ्गा पर* :      
 `जीवेश` - Elephants 
 `भेद` - Tearing 
 `गुणपूर्ति`  - Filled such behaviour 
@@ -122,8 +120,11 @@ In continuation from previous Sloka.
 `मुख` - Face 
 `नक्र` - Crocodile 
 `गणैः` - Group `समेता` - inside
+`दुर्वादि` - Coarse Sounding 
+`अजापति` - Goats 
+`गिलैः` - Swallowing 
 
-*Ganga river in which crocodiles which swallow the whole goat and are capable of tearing apart event Elephants.*
+*Ganga river in which crocodiles which swallow the whole goat and are capable of tearing apart even Elephants.*
 
 ---
 
@@ -158,8 +159,8 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 {{% details "पदच्छेद /अर्थ" %}}
 
 ### पदच्छेद  
-स्वपादपङ्कच द्वयभक्तिमद्भ्यः,  सकलप्रदाता,  अघाद्रि सम्भेदन दृष्टिवज्रः, 
-क्षमा सुरेन्द्रः,  अयम्‌,  श्रीराघवेन्द्रः,  मां,  सदा, अवतु 
+श्रीराघवेन्द्रः, सकलप्रदाता, स्वपाद पङ्कच द्वय भक्तिमद्भ्यः, अघाद्रि सम्भेदन दृष्टि वज्रः, 
+क्षमा सुरेन्द्रः, अवतु,  मां,  सदा,  अयम्‌    
 
 ---  
 
@@ -187,8 +188,8 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 
 {{% details "पदच्छेद /अर्थ" %}}
 ### पदच्छेद  
- हरिपादकञ्च - निषेवणात् लब्ध समस्तसम्पत्‌ देवस्वभावः 
- दिविजद्रुमः अयम्   श्रीराघवेन्द्रः सततं मे इष्टप्रदः  भूयात्‌
+श्रीराघवेन्द्रः ,  हरिपाद कञ्च निषेवणात् , लब्ध, समस्त सम्पत्, ‌ देवस्वभावः,
+दिविजद्रुमः, अयम्, इष्टप्रदः, मे,सततं, सः  ,भूयात्‌
 
 ---  
 
@@ -214,7 +215,7 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 {{% details "पदच्छेद /अर्थ" %}}
 
 ### पदच्छेद    
-भव्यस्वरूपः,  भवदुःखतूल -  सङ्घाग्निचर्यः,  सुखधैर्यशाली, समस्तदुष्टग्रह - निग्रहेशः,   दुरत्ययोप - प्लवसिन्धुसेतुः 
+भव्यस्वरूपः,  भवदुःखतूल सङ्घाग्नि चर्यः,  सुख धैर्य शाली, समस्त दुष्ट ग्रह निग्रहेशः,  दुरत्यय उप - प्लव सिन्धु सेतुः, 
 [मे  सततं इष्टप्रदः  भूयात्‌ ]
 
 ---  
@@ -271,7 +272,7 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 {{% details "पदच्छेद /अर्थ" %}}
 ### पदच्छेद  
 
-सन्तान सम्पत् परिशुद्ध भक्ति विज्ञानवाग्देहसुपाटवादीन्‌ , दत्त्वा, शरीरोत्थ समस्तदोषान्‌ हत्त्वा  सः  अव्यात्  गुरुराघवेन्द्रः
+सन्तान सम्पत् परिशुद्ध भक्ति विज्ञान वाग्देह सुपाट वादीन्‌ , दत्त्वा, शरीरोत्थ समस्त दोषान्‌, हत्त्वा, सः,  अव्यात्,  गुरुराघवेन्द्रः
 
 ---  
 
@@ -311,7 +312,7 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 ### पदच्छेद  
 यत्, पादोदक सञ्चयः, सुरनदी  मुख्य अपगा,  आसादित,
 असङ्य अनुत्तम पुण्य सङ्घ,  विलसत्, प्रख्यात, पुण्यावहः, 
-दुस्ताप त्रयनाशनः, भुवि, महावन्ध्या, सुपुत्रप्रदः,  
+दुस्ताप त्रय नाशनः, भुवि, महावन्ध्या, सुपुत्र प्रदः,  
 व्यङ्ग स्वङ्ग समृद्धिदः, ग्रह महापापापहः, तं, श्रये  
 
 ---  
@@ -357,7 +358,7 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 
 {{% details "पदच्छेद /अर्थ" %}}
 ### पदच्छेद  
-ये, यत् पादकञ्ज रजसा,  परिभूषिताङ्गाः ,  यत् पादपद्म मधुपायित मानसाः,  यत् पादपद्म परिकीर्तन जीर्णवाचः, तत् दर्शनं, दुरितकानन दाव भूतम्‌   
+यत् पादकञ्ज रजसा,  परिभूषिताङ्गाः ,  यत् पादपद्म मधुपायित मानसाः, ये, यत् पादपद्म परिकीर्तन जीर्ण वाचः, तत् दर्शनं, दुरित कानन दाव भूतम्‌   
 
 ---  
 
@@ -391,8 +392,8 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 {{% details "पदच्छेद /अर्थ" %}}
 ### पदच्छेद   
 
-स्वर्व तन्त्र स्वतन्त्रः ,  असौ, श्रीमध्वमतवर्धनः
-विजयीन्द्र कराब्जः उत्थ सुधीन्द्र वरपुत्रकः
+स्वर्व तन्त्र स्वतन्त्रः ,  असौ, श्रीमध्वमतवर्धनः,
+विजयीन्द्र कराब्ज उत्थः, सुधीन्द्र वरपुत्रकः
 [मे स्यात् भयापहः]
 
 ---  
@@ -425,7 +426,7 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 ### पदच्छेद  
 
 श्रीराघवेन्द्रः,  यतिराट् गुरुः,  मे,  स्यात्,  भयापहः,   
-ज्ञानभक्तिसुपुत्र आयुः, यशः, श्रीपुण्यवर्धनः
+ज्ञान भक्ति सुपुत्र आयुः, यशः, श्रीपुण्यवर्धनः
 
 ---  
 
@@ -449,14 +450,14 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 {{< shloka  link="0" >}}
 
 प्रतिवादिजयस्वान्तभेदचिह्नादरो गुरुः ।   
-सर्वाविद्याप्रवीणोऽन्यो राघवेन्द्रान्न विद्यते ॥ १२॥
+सर्वविद्याप्रवीणोऽन्यो राघवेन्द्रान्न विद्यते ॥ १२॥
 
 {{< /shloka >}}
 
 {{% details "पदच्छेद /अर्थ" %}}
 ### पदच्छेद 
 
-प्रतिवादि जय स्वान्तभेद चिह्न आदरः, गुरुः,  सर्वाविद्या प्रवीणः, 
+प्रतिवादि जय स्वान्त भेद चिह्न आदरः, गुरुः,  सर्वविद्या प्रवीणः, 
 अन्यः, राघवेन्द्रात् , न विद्यते 
 
 ---  
@@ -464,10 +465,10 @@ One with sharp arguments about Madhva's philosophy such as reality of world , th
 ### अर्थ    
 `प्रतिवादि जय स्वान्तभेद चिह्न आदरः` - One who defeats opponents, creates confusion in their hearts, Wins over their Titles and Certificates.
 `गुरुः` -  Guru
-`सर्वाविद्या प्रवीणः`  - Well versed in all Shastras
+`सर्वविद्या प्रवीणः`  - Well versed in all Shastras
 `अन्यः` -  Other 
 `राघवेन्द्रात्`  - Than Sri Raghavendra
-`न विद्यते` - is present
+`न विद्यते` - is not present
 
 
 - प्रतिवादि : Opponents (like Budhist, Mayavadis etc)
