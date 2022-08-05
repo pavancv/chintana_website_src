@@ -43,6 +43,9 @@ The  generated website :- https://pavancv.github.io/chintana/
 
 The generated website is a sub-module of this repo.
 
+### To clone full repo along with sub-module 
+git clone --recurse-submodules <this repo>
+
 ### Command to run
 #### Local server
 - hugo server -D
