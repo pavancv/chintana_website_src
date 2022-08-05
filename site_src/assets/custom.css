@@ -14,10 +14,13 @@ p, code {
 
 #main_content {
   /*font-size:x-large;*/
-  font-size : 1.45rem;
+  font-size : 1.40rem;
   /*position: relative;*/
 }
 #bg-shloka {
   background-color:#f8e7a9;
 }
 
+#bg-shloka-commentary {
+  background-color:#f8e7a9;
+}

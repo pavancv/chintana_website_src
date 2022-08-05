@@ -6,7 +6,7 @@ book:
     toc_page: true
     next_page: shloka22
     prev_page: shloka20
-    menu : FillHere!
+    menu : geeta_menu
 ---
 
 
