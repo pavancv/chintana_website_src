@@ -1,5 +1,5 @@
 ---
-title: "श्लोक २.४/५  - साङ्ययोग"
+title: "श्लोक २.४ / २.५  - साङ्ययोग"
 date: 2022-03-10T17:38:56+05:30
 draft: false
 book:
@@ -11,7 +11,7 @@ book:
 
 
 
-## श्लोक २.४\५ {class=text-center}
+## श्लोक २.४ / २.५  {class=text-center}
 
 <br/>
 

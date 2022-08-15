@@ -1,5 +1,5 @@
 ---
-title: "श्लोक २.६/७/८  - साङ्ययोग"
+title: "श्लोक २.६ \ २.७ \ २.८  - साङ्ययोग"
 date: 2022-03-10T17:38:58+05:30
 draft: false
 book:
@@ -9,7 +9,7 @@ book:
     menu : geeta_menu
 ---
 
-## श्लोक २.६\७\८ {class=text-center}
+## श्लोक २.६ \ २.७ \ २.८  {class=text-center}
 
 <br/>
 

@@ -4,7 +4,7 @@ date: 2022-08-04T20:45:26+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
+    next_page: ../chapter3
     prev_page: shloka71
     menu : geeta_menu
 ---

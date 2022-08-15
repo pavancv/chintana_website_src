@@ -15,22 +15,22 @@ book:
 
 {{< table "table  table-striped table-hover table-bordered" >}}
 
-| लकार  | Description                       |
-| :---: | :----                             |
-| लट्    | Present  []                         |
-| लिट्   | Past Perfect(Not today, not seen) |
-| लुट्    | Future definite (Not today)       |
-| लृट्    | cause-effect relation             |
-| लोट्   | Request/Order(Imperative)        |
-| लेट्    | Vedas                             |
-|       |                                   |
-|       |                                   |
-| लङ्    | Past                              |
-| लिङ्   | (Two Types)                       |
-| आशि   | Benedictive                      |
-| विधि  |   Potential                        |
-| लुङ्    | cause-effect relation             |
-| लृङ्    |  Conditional                       |
+| लकार  | Description                                    |
+| :---: | :----                                          |
+| लट्    | Present  `वर्तमान`                                |
+| लिट्   | Past Perfect(Not today, not seen) `अनध्यतन भूत`   |
+| लुट्    | Future definite   `समान्य भविष्यत्`                 |
+| लृट्    | Future definite (Not today) `अनध्यतन भविष्यत्`     |
+| लोट्   | Request/Order(Imperative)  `क्रियातिपत्ति`           |
+| लेट्    | Vedas                                          |
+|       |                                                |
+|       |                                                |
+| लङ्    | Past `अध्यतन भूत`                                |
+| लिङ्   | (Two Types)                                    |
+|  -- आर्शि   | Benedictive                                |
+|  -- विधि  |   Potential                                 |
+| लुङ्    | cause-effect relation                          |
+| लृङ्    |  Conditional                                   |
 {{</table>}}
 
 #### लट् वर्तमाने लेट वेदे भूते लुङ्लङ्लिटस्तथा ।  
@@ -54,14 +54,15 @@ book:
 - तनादि
 - क्र्यादि
 - चुरादि
- 
+
+The above division is based on विकरण  that is added during तिङन्त प्रक्रीय 
 
 #### त्रीणि पुरुषाः(cases) and वचनाः
 
 
 #### द्विप्रकाराः   
-*  आत्मनेपदि : देवदत्तः `यजति`
-*  परस्मैपदि  : देवदत्तः `यजते`
+*  आत्मनेपदि : देवदत्तः `यजते` 
+*  परस्मैपदि  : देवदत्तः `यजति`
 
 Each verbs essentially has
 - 10(गण) * 3(वचन) * 3(पुरुष) = 90 Forms
@@ -70,6 +71,10 @@ Each verbs essentially has
 - In लट् , लङ्, लोट् विधि generally   
   under modification (विकरण): सार्वधातुक
   Rest are called आर्धधातुक
+
+#### Verbs are also divided as सेट्, अनिट्, वेट्
+
+<br/>
 
 
 ### [भ्वादि गण]({{< ref "1STGroup" >}})

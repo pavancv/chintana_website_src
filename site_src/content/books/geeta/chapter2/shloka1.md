@@ -1,17 +1,17 @@
 ---
-title: "श्लोक २.१  - साङ्ययोग"
+title: "श्लोक २.१ \ २.२ \ २.३ - साङ्ययोग"
 date: 2022-03-10T17:38:48+05:30
 draft: false
 book:
     toc_page: true
     next_page: shloka4
-    prev_page: ..
+    prev_page: ../chapter2
     menu : geeta_menu
 ---
 
 
 
-## श्लोक २.१ {class=text-center}
+## श्लोक २.१ \ २.२ \ २.३  {class=text-center}
 
 <br/>
 
