@@ -85,5 +85,7 @@ book:
 
 {{% details "पद विचार" %}}
 
+- अश्नुते - Attains
+- समधिगच्छति  - Obtains
 
 {{% /details %}}

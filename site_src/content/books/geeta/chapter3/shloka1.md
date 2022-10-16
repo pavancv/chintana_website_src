@@ -61,4 +61,6 @@ book:
 
 {{% details "पद विचार" %}}
 
+- ज्यायसी : Better/Superior
+
 {{% /details %}}
