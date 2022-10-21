@@ -52,6 +52,11 @@ git clone --recurse-submodules <this repo>
 #### Generate website
 - hugo -d ../chintana (from site_src)
 
+#### To create a new page
+- hugo new <path>
+  ex hugo new books/geeta/chapter4/shloka9.md
+
+
 #### Commit
 - First commit and push chintana dir
 - Add git module also while commiting to parent git repo(chintana_website_src)
