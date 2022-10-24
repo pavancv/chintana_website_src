@@ -12,10 +12,10 @@ book:
       - name: कर्मयोग
         ref: chapter3
 
-      - name: ज्ञानकर्मसन्यसयोग
+      - name: ज्ञानकर्मसन्यासयोग
         ref: chapter4
 
-      - name: कर्मसन्यसयोग
+      - name: कर्मसन्यासयोग
         ref: chapter5
 
       - name: ध्यानयोग
