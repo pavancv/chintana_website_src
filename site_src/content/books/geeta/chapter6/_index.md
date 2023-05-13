@@ -22,6 +22,7 @@ book:
 
 {{< /shloka >}}
 
+## श्लोक ६.२ {class="visually-hidden"}
 
 {{< shloka  link="shloka2" >}}
 
@@ -30,6 +31,7 @@ book:
 
 {{< /shloka >}}
 
+## श्लोक ६.३ {class="visually-hidden"}
 
 {{< shloka  link="shloka3" >}}
 
@@ -38,16 +40,16 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.४ {class="visually-hidden"}
 {{< shloka  link="shloka4" >}}
 
 यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते।  
 सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते॥६.४॥
  
-
 {{< /shloka >}}
 
 
+## श्लोक ६.५ {class="visually-hidden"}
 {{< shloka  link="shloka5" >}}
 
 उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत्।  
@@ -55,7 +57,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.६ {class="visually-hidden"}
 {{< shloka  link="shloka6" >}}
 
 बन्धुरात्माऽऽत्मनस्तस्य येनात्मैवात्मना जितः।  
@@ -63,7 +65,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.७ {class="visually-hidden"}
 {{< shloka  link="shloka6" >}}
 
 जितात्मनः प्रशान्तस्य परमात्मा समाहितः।  
@@ -71,7 +73,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.८ {class="visually-hidden"}
 {{< shloka  link="shloka8" >}}
 
 ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः।  
@@ -79,7 +81,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.९ {class="visually-hidden"}
 {{< shloka  link="shloka9" >}}
 
 सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु।  
@@ -87,7 +89,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.१० {class="visually-hidden"}
 {{< shloka  link="shloka10" >}}
 
 योगी युञ्जीत सततमात्मानं रहसि स्थितः।  
@@ -95,7 +97,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.११ {class="visually-hidden"}
 {{< shloka  link="shloka11" >}}
 
 शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः।  
@@ -103,7 +105,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.१२ {class="visually-hidden"}
 {{< shloka  link="shloka12" >}}
 
 तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः।  
@@ -111,7 +113,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.१३ {class="visually-hidden"}
 {{< shloka  link="shloka13" >}}
 
 समं कायशिरोग्रीवं धारयन्नचलं स्थिरः।  
@@ -119,7 +121,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.१४ {class="visually-hidden"}
 {{< shloka  link="shloka14" >}}
 
 प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः।  
@@ -127,7 +129,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.१५ {class="visually-hidden"}
 {{< shloka  link="shloka15" >}}
 
 युञ्जन्नेवं सदाऽऽत्मानं योगी नियतमानसः।  
@@ -135,7 +137,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.१६ {class="visually-hidden"}
 {{< shloka  link="shloka16" >}}
 
 नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।  
@@ -143,7 +145,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.१७ {class="visually-hidden"}
 {{< shloka  link="shloka16" >}}
 
 युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।  
@@ -151,7 +153,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.१८ {class="visually-hidden"}
 {{< shloka  link="shloka18" >}}
 
 यदा विनियतं चित्तमात्मन्येवावतिष्ठते।  
@@ -159,7 +161,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.१९ {class="visually-hidden"}
 {{< shloka  link="shloka19" >}}
 
 यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता।  
@@ -167,7 +169,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.२० {class="visually-hidden"}
 {{< shloka  link="shloka20" >}}
 
 यत्रोपरमते चित्तं निरुद्धं योगसेवया।  
@@ -175,7 +177,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.२१ {class="visually-hidden"}
 {{< shloka  link="shloka21" >}}
 
 सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम्।  
@@ -184,7 +186,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.२२ {class="visually-hidden"}
 {{< shloka  link="shloka22" >}}
 
 यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः।  
@@ -192,7 +194,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.२३ {class="visually-hidden"}
 {{< shloka  link="shloka23" >}}
 
 तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम्।  
@@ -200,16 +202,15 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.२४ {class="visually-hidden"}
 {{< shloka  link="shloka24" >}}
 
 सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः।  
 मनसैवेन्द्रियग्रामं विनियम्य समन्ततः॥६.२४॥
  
-
 {{< /shloka >}}
 
-
+## श्लोक ६.२५ {class="visually-hidden"}
 {{< shloka  link="shloka25" >}}
 
 शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया।  
@@ -217,7 +218,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.२६ {class="visually-hidden"}
 {{< shloka  link="shloka26" >}}
 
 यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्।  
@@ -225,7 +226,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.२७ {class="visually-hidden"}
 {{< shloka  link="shloka27" >}}
 
 प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्।  
@@ -233,7 +234,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.२८ {class="visually-hidden"}
 {{< shloka  link="shloka28" >}}
 
 युञ्जन्नेवं सदाऽऽत्मानं योगी विगतकल्मषः।  
@@ -241,25 +242,23 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.२९ {class="visually-hidden"}
 {{< shloka  link="shloka29" >}}
 
 सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि।  
 ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः॥६.२९॥
  
-
 {{< /shloka >}}
 
-
+## श्लोक ६.३० {class="visually-hidden"}
 {{< shloka  link="shloka30" >}}
 
 यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति।  
 तस्याहं न प्रणश्यामि स च मे न प्रणश्यति॥६.३०॥
- 
 
 {{< /shloka >}}
 
-
+## श्लोक ६.३१ {class="visually-hidden"}
 {{< shloka  link="shloka31" >}}
 
 सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः।  
@@ -267,7 +266,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.३२ {class="visually-hidden"}
 {{< shloka  link="shloka32" >}}
 
 आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन।  
@@ -275,7 +274,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.३३ {class="visually-hidden"}
 {{< shloka  link="shloka33" >}}
 
 **अर्जुन उवाच**   
@@ -284,7 +283,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.३४ {class="visually-hidden"}
 {{< shloka  link="shloka34" >}}
 
 चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्।  
@@ -292,7 +291,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.३५ {class="visually-hidden"}
 {{< shloka  link="shloka35" >}}
 
 **श्री भगवानुवाच**  
@@ -301,7 +300,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.३६ {class="visually-hidden"}
 {{< shloka  link="shloka35" >}}
 
 असंयतात्मना योगो दुष्प्राप इति मे मतिः।  
@@ -309,7 +308,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.३७ {class="visually-hidden"}
 {{< shloka  link="shloka37" >}}
 
 **अर्जुन उवाच**  
@@ -318,7 +317,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.३८ {class="visually-hidden"}
 {{< shloka  link="shloka38" >}}
 
 कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति।  
@@ -327,7 +326,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.३९ {class="visually-hidden"}
 {{< shloka  link="shloka39" >}}
 
 एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः।  
@@ -335,7 +334,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.४० {class="visually-hidden"}
 {{< shloka  link="shloka40" >}}
 
 **श्री भगवानुवाच**  
@@ -344,7 +343,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.४१ {class="visually-hidden"}
 {{< shloka  link="shloka40" >}}
 
 प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः।   
@@ -352,7 +351,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.४२ {class="visually-hidden"}
 {{< shloka  link="shloka42" >}}
 
 अथवा योगिनामेव कुले भवति धीमताम् ।  
@@ -360,7 +359,7 @@ book:
 
 {{< /shloka >}}
 
-
+## श्लोक ६.४३ {class="visually-hidden"}
 {{< shloka  link="shloka43" >}}
 
 तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्।  
@@ -368,6 +367,7 @@ book:
 
 {{< /shloka >}}
 
+## श्लोक ६.४४ {class="visually-hidden"}
 {{< shloka  link="shloka44" >}}
 
 पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः।  
@@ -375,6 +375,7 @@ book:
 
 {{< /shloka >}}
 
+## श्लोक ६.४५ {class="visually-hidden"}
 {{< shloka  link="shloka45" >}}
 
 प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः।  
@@ -382,6 +383,7 @@ book:
 
 {{< /shloka >}}
 
+## श्लोक ६.४६ {class="visually-hidden"}
 {{< shloka  link="shloka46" >}}
 
 तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः।  
@@ -389,6 +391,7 @@ book:
 
 {{< /shloka >}}
 
+## श्लोक ६.४७ {class="visually-hidden"}
 {{< shloka  link="shloka47" >}}
 
 योगिनामपि सर्वेषां मद्गतेनान्तरात्मना।  
@@ -396,9 +399,9 @@ book:
 
 {{< /shloka >}}
 
-
+</br> 
 
 ##### ॐ तत्सदिति श्रीमद्गगवद्वीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे  आत्मसंयमयोगो नाम षष्ठोऽध्यायः ॥ ६ ॥
 
-#### [ध्यानयोग](../chapter7)  >> {class=text-center}
+#### [ज्ञानविज्ञानयोग](../chapter7)  >> {class=text-center}
 
