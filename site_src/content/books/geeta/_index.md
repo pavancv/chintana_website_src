@@ -14,7 +14,7 @@ book:
 #### ૐ श्री गुरुभ्यो नमः हरिः  ૐ  { class=text-center }
 
 
-This is an attempt to convert the गीताविवृति by श्रीराघवेन्द्रतीर्थः to native (utf-8) format as  it appear is not available anywhere on web.
+This is an attempt to convert the गीताविवृति by श्रीराघवेन्द्रतीर्थः to native (utf-8) format as it is not available (in utf-8 format)  anywhere on web.
 
 For reference गीताभाष्य by श्रीमत्मध्वाचार्यः is also included.
 

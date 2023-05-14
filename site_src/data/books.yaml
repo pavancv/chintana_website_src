@@ -13,4 +13,6 @@ book_list:
   - name: संस्कृत भाषाविचार
     ref: books/sanskrit
     notes: Notes on Language
-    
+  - name: द्वादशस्तोत्र
+    ref: books/dds
+    notes: श्रीमध्वाचार्य विरचित

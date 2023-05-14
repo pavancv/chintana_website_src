@@ -1,0 +1,29 @@
+---
+book:
+  title : द्वादशस्तोत्रम्
+  ref:  books/dds
+  chapters:
+      - name: प्रथमस्तोत्रम्
+        ref: dds_stotra1
+      - name: द्वितीयस्तोत्रम्
+        ref: dds_stotra2
+      - name:  तृतीय स्तोत्रम्
+        ref: dds_stotra3
+      - name: चतुर्थस्तोत्रम्
+        ref: dds_stotra4
+      - name: पञ्चमस्तोत्रम्
+        ref: dds_stotra5
+      - name: षष्टस्तोत्रम्
+        ref: dds_stotra6
+      - name: सप्तमस्तोत्रम्
+        ref: dds_stotra7
+      - name: अष्टमस्तोत्रम्
+        ref: dds_stotra8
+      - name: नवमस्तोत्रम्
+        ref: dds_stotra9
+      - name: दशमस्तोत्रम्
+        ref: dds_stotra10
+      - name: एकादशस्तोत्रम्
+        ref: dds_stotra11
+      - name: द्वादशस्तोत्रम्
+        ref: dds_stotra12
