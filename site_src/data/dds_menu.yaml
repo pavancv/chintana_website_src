@@ -7,7 +7,7 @@ book:
         ref: dds_stotra1
       - name: द्वितीयस्तोत्रम्
         ref: dds_stotra2
-      - name:  तृतीय स्तोत्रम्
+      - name: तृतीय स्तोत्रम्
         ref: dds_stotra3
       - name: चतुर्थस्तोत्रम्
         ref: dds_stotra4

@@ -54,7 +54,7 @@ git clone --recurse-submodules <this repo>
 
 #### To create a new page
 - hugo new <path>
-  ex hugo new contents/books/geeta/chapter4/shloka9.md
+  ex hugo new contents/books/geeta/chapter18/shloka9.md
 
 
 #### Commit

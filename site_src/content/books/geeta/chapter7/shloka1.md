@@ -5,7 +5,7 @@ draft: false
 book:
     toc_page: true
     next_page: Shloka2
-    prev_page: ../chapter6
+    prev_page: ../chapter7
     menu : geeta_menu
 ---
 
