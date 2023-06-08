@@ -33,7 +33,7 @@ book:
 
 {{% details "पद विचार" %}}
 
-- सखीं  : acquaintance
+- सखीन्  : acquaintance
 - मातुला : Maternal Uncle/Aunt
 
 {{% /details %}}
