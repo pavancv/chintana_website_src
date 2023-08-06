@@ -63,7 +63,7 @@ book:
 
 
 ## श्लोक ९.७ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka7" >}}
 सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् ।   
 कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ॥९.७॥
 {{< /shloka >}}
@@ -71,35 +71,35 @@ book:
 
 
 ## श्लोक ९.८ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka8" >}}
 प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः ।    
 भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ॥९.८॥
 {{< /shloka >}}
 
 
 ## श्लोक ९.९ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka9" >}}
 न च मां तानि कर्माणि निबध्नन्ति धनञ्जय ।  
 उदासीनवदासीनमसक्तं तेषु कर्मसु ॥९.९॥
 {{< /shloka >}}
 
 
 ## श्लोक ९.१० {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka10" >}}
 मयाऽध्यक्षेण प्रकृतिः सूयते सचराचरम् ।  
 हेतुनाऽनेन कौन्तेय जगद्विपरिवर्तते ॥९.१०॥
 {{< /shloka >}}
 
 
 ## श्लोक ९.११ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka11" >}}
 अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् ।  
 परं भावमजानन्तो मम भूतमहेश्वरम्  ॥९.११॥
 {{< /shloka >}}
 
 
 ## श्लोक ९.१२ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka12" >}}
 मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः ।  
 राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ॥९.१२॥
 {{< /shloka >}}
@@ -107,7 +107,7 @@ book:
 
 
 ## श्लोक ९.१३ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka13" >}}
 महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः  ।   
 भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ॥९.१३॥
 {{< /shloka >}}
@@ -115,7 +115,7 @@ book:
 
 
 ## श्लोक ९.१४ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka14" >}}
 सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः ।   
 नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ॥९.१४॥
 {{< /shloka >}}
@@ -123,7 +123,7 @@ book:
 
 
 ## श्लोक ९.१५ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka15" >}}
 ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते ।   
 एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ॥९.१५॥
 {{< /shloka >}}
@@ -131,7 +131,7 @@ book:
 
 
 ## श्लोक ९.१६ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka16" >}}
 अहं क्रतुरहं यज्ञः स्वधाऽहमहमौषधम् ।   
 मंत्रोऽहमहमेवाज्यमहमग्निरहं हुतम् ॥९.१६॥
 {{< /shloka >}}
@@ -139,7 +139,7 @@ book:
 
 
 ## श्लोक ९.१७ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka17" >}}
 पिताऽहमस्य जगतो माता धाता पितामहः ।   
 वेद्यं पवित्रमोंकार ऋक् साम यजुरेव च ॥९.१७॥
 {{< /shloka >}}
@@ -147,7 +147,7 @@ book:
 
 
 ## श्लोक ९.१८ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka18" >}}
 गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत् ।   
 प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ॥९.१८॥
 {{< /shloka >}}
@@ -155,7 +155,7 @@ book:
 
 
 ## श्लोक ९.१९ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka19" >}}
 तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च ।   
 अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ॥९.१९॥
 {{< /shloka >}}
@@ -163,7 +163,7 @@ book:
 
 
 ## श्लोक ९.२० {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka20" >}}
 त्रैविद्या मां सोमपाः पूतपापा  
 यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते ।   
 ते पुण्यमासाद्य सुरेन्द्रलोक  
@@ -172,7 +172,7 @@ book:
 
 
 ## श्लोक ९.२१ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka21" >}}
 ते तं भुक्त्वा स्वर्गलोकं विशालं  
 क्षीणे पुण्ये मर्त्यलोकं विशन्ति ।   
 एव त्रयीधर्ममनुप्रपन्ना  
@@ -182,7 +182,7 @@ book:
 
 
 ## श्लोक ९.२२ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka22" >}}
 अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।   
 तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥९.२२॥
 {{< /shloka >}}
@@ -190,7 +190,7 @@ book:
 
 
 ## श्लोक ९.२३ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka23" >}}
 येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयाऽन्विताः ।   
 तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ॥९.२३॥
 {{< /shloka >}}
@@ -198,7 +198,7 @@ book:
 
 
 ## श्लोक ९.२४ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka24" >}}
 अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च ।   
 न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ॥९.२४॥
 {{< /shloka >}}
@@ -206,7 +206,7 @@ book:
 
 
 ## श्लोक ९.२५ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka25" >}}
 यान्ति देवव्रता देवान् पितृ़न्यान्ति पितृव्रताः ।   
 भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ॥९.२५॥
 {{< /shloka >}}
@@ -214,7 +214,7 @@ book:
 
 
 ## श्लोक ९.२६ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka26" >}}
 पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।   
 तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥९.२६॥
 {{< /shloka >}}
@@ -222,7 +222,7 @@ book:
 
 
 ## श्लोक ९.२७ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka27" >}}
 यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।   
 यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ॥९.२७॥
 {{< /shloka >}}
@@ -230,47 +230,47 @@ book:
 
 
 ## श्लोक ९.२८ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka28" >}}
 शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः ।   
 संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ॥९.२८॥
 {{< /shloka >}}
 
 
 ## श्लोक ९.२९ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka29" >}}
 समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।   
 ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥९.२९॥
 {{< /shloka >}}
 
 
 ## श्लोक ९.३० {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka30" >}}
 अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।   
 साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ॥९.३०॥
 {{< /shloka >}}
 
 ## श्लोक ९.३१ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka31" >}}
 क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति ।  
 कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ॥९.३१॥
 {{< /shloka >}}
 
 ## श्लोक ९.३२ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka32" >}}
 मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः ।  
 स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ॥९.३२॥
 {{< /shloka >}}
 
 
 ## श्लोक ९.३३ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka33" >}}
 किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा ।  
 अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ॥९.३३॥
 {{< /shloka >}}
 
 
 ## श्लोक ९.३४ {class="visually-hidden"}
-{{< shloka  link="shloka1" >}}
+{{< shloka  link="shloka33" >}}
 मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।  
 मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ॥९.३४॥
 {{< /shloka >}}
