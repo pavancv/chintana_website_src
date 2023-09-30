@@ -9,3 +9,5 @@ book:
         ref: sans_nouns
       - name: अच् सन्धयः
         ref: sans_chapter3
+      - name: प्रत्यहाराः
+        ref: sans_pratyahar

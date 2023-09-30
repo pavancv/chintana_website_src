@@ -4,6 +4,6 @@
 {{ $old := "<table>" }}
 {{ $new := printf "<table class=\"%s\">" $class }}
 {{ $htmlTable := replace $htmlTable $old $new }}
-<div class="table-responsive">
+<div class="table-responsive-sm">
 {{ $htmlTable | safeHTML }}
 </div>

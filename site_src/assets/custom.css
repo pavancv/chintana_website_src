@@ -8,8 +8,18 @@ body {
 
 }
 
-p, code {
+/* p {
+  / *margin-bottom: .2em;* /
+  font-size : 1.30rem;
+} */
+
+code {
   /*margin-bottom: .2em;*/
+  font-size : 1.40rem;
+}
+
+.table {
+  --bs-table-bg:#f8e7a9;
 }
 
 #main_content {
@@ -24,3 +34,4 @@ p, code {
 #bg-shloka-commentary {
   background-color:#f8e7a9;
 }
+
