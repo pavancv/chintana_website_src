@@ -5,7 +5,7 @@ draft: false
 book:
     toc_page: true
     next_page: shloka42
-    prev_page: shloka30
+    prev_page: shloka40
     menu : geeta_menu
 ---
 
