@@ -129,5 +129,6 @@ book:
 
 - अश्नुते - Attains
 - समधिगच्छति  - Obtains
+- हेतुगर्भ -  where reason or  is 
 
 {{% /details %}}

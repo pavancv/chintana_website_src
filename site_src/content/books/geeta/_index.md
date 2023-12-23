@@ -1,5 +1,5 @@
 ---
-title:  "श्रीमत्भगवत्गीत"
+title:  "मोक्षसंन्यसयोग"
 book:
     toc_page: true
     next_page: chapter1/shloka1
