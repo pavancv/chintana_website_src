@@ -24,6 +24,8 @@ I have used following websites as references:-
 
 [Srimadhvyasa blog](https://srimadhvyasa.wordpress.com/)
 
+[Transliterate] https://ekannada.karnataka.gov.in/transliterate/
+
 
 Further,  an attempt is made to provide additional 
 contextual information.
