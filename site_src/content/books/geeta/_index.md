@@ -16,7 +16,7 @@ book:
 
 This is an attempt to convert the गीताविवृति by श्रीराघवेन्द्रतीर्थः to native (utf-8) format as it is not available (in utf-8 format)  anywhere on web.
 
-For reference गीताभाष्य by श्रीमत्मध्वाचार्यः is also included.
+For reference गीताभाष्य by श्रीमन्मध्वाचार्यः is also included.
 
 I have used following websites as references:-
 
@@ -32,7 +32,7 @@ contextual information.
 
 ---
 
-{{% details "श्रीमत्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
+{{% details "श्रीमन्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
 <br/>
 

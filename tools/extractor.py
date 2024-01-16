@@ -29,5 +29,5 @@ if __name__ == "__main__":
 # from indic_transliteration import sanscript
 # from indic_transliteration.sanscript import SchemeMap, SCHEMES, transliterate
 
-# data = "श्रीमत्मध्वाचार्यभगवत्पादाचर्य"
+# data = "श्रीमन्मध्वाचार्यभगवत्पादाचर्य"
 # print(transliterate(data, sanscript.DEVANAGARI, sanscript.IAST))
