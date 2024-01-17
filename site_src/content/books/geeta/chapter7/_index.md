@@ -8,6 +8,8 @@ book:
     prev_page: ../chapter6
 ---
 
+<br/>
+
 # ज्ञानविज्ञानयोग {class="text-center"}
 
 ---

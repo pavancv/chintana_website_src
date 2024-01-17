@@ -8,6 +8,8 @@ book:
     prev_page: ../chapter5
 ---
 
+<br/>
+
 # ध्यानयोग/आत्मसंयमयोग {class="text-center"}
 
 ---

@@ -8,6 +8,7 @@ book:
     prev_page: ..
 ---
 
+<br/>
 
 # अर्जुनविशादयोग {class="text-center"}
 ---

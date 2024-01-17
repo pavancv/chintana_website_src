@@ -8,6 +8,8 @@ book:
     prev_page: ../chapter7
 ---
 
+<br/>
+
 # अक्षरब्रह्मयोग {class="text-center"}
 
 ---

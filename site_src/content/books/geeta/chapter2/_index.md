@@ -8,6 +8,8 @@ book:
     prev_page: ../chapter1
 ---
 
+<br/>
+
 # साङ्ययोग {class="text-center"}
 
 ---

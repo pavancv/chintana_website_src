@@ -8,6 +8,7 @@ book:
     prev_page: ../chapter8
 ---
 
+<br/>
 
 # राजविद्यराजगुह्ययोग {class="text-center"}
 

@@ -8,6 +8,7 @@ book:
     prev_page: ../chapter3
 ---
 
+<br/>
 
 # ज्ञानकर्मसन्यसयोग / ज्ञानयोग {class="text-center"}
 

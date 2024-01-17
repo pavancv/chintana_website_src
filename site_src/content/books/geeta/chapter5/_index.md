@@ -8,6 +8,8 @@ book:
     prev_page: ../chapter4
 ---
 
+<br/>
+
 # कर्मसन्यासयोग/ संन्यसयोग {class="text-center"}
 
 ---
