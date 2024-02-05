@@ -24,7 +24,11 @@ I have used following websites as references:-
 
 [Srimadhvyasa blog](https://srimadhvyasa.wordpress.com/)
 
-[Transliterate] https://ekannada.karnataka.gov.in/transliterate/
+
+##### Webpages to tranliterate :   
+[Aksharamukha](http://aksharamukha.appspot.com)  
+[ekannada](https://ekannada.karnataka.gov.in/transliterate/)  
+
 
 
 Further,  an attempt is made to provide additional 

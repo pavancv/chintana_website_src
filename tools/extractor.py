@@ -9,11 +9,14 @@ def process ():
         file = filelist [2] 
         for file in filelist[2]:
             if (os.path.isfile(file)):
-                #cmd = "/opt/homebrew/bin/tesseract -l script/Devanagari " + \
+               
                 if  file.endswith(".png") or file.endswith(".jpeg"):
                     # name of the file without extension 
-                    cmd = "/opt/homebrew/bin/tesseract -l script/Kannada " + \
-                           file + " " + file
+                    cmd = "/opt/homebrew/bin/tesseract -l script/Devanagari " + \
+                                                     file + " " + file
+                    #cmd = "/opt/homebrew/bin/tesseract -l script/Kannada " + \
+                    #       file + " " + file
+
 
                     print ("Running : ",cmd)
                     subprocess.run(cmd, shell=True)
