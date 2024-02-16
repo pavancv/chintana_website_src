@@ -1,23 +1,24 @@
 ---
-title: "Shloka24"
+title: "श्लोक १८.२४- मोक्षसंन्यसयोग"
 date: 2024-02-15T06:22:13+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
-    prev_page: None
+    next_page: shloka25
+    prev_page: shloka23
     menu : geeta_menu
 ---
 
 
 
-## श्लोक TBD {class=text-center}
+## श्लोक १८.२४ {class=text-center}
 
 <br/>
 
 {{< shloka  "0"  >}}
 
-#Fill  The Shloka Here
+यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः ।  
+क्रियते बहुलायासं तद्राजसमुदाहृतम् ॥ १८.२४ ॥
 
 {{< /shloka >}}
 
@@ -26,7 +27,7 @@ book:
 
 {{% details "श्रीमन्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
-#Fill  Tippani here!!
+*Refer to श्लोक १८.२८*
 
 {{% /details %}}
 
@@ -34,7 +35,9 @@ book:
 
 {{% details "श्रीराघवेन्द्रतीर्थविरचित गीताविवृतिः " %}}
 
-#Fill  Tippani here!!
+`यत्तु कामेप्सुना` फलप्राप्तीच्छावता कर्तृत्वाभिमानसहितेन च । `पुनः` शब्दः 
+समुच्चये । `बह्वायासयुक्तं` च `क्रियते तत्कर्म राजसं उदाहृतम्‌` ॥ १८.२४ ॥
+
 
 {{% /details %}}
 

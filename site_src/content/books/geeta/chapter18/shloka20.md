@@ -4,7 +4,7 @@ date: 2024-01-21T11:53:20+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
+    next_page: shloka20
     prev_page: shloka19
     menu : geeta_menu
 ---
@@ -27,7 +27,7 @@ book:
 
 {{% details "श्रीमन्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
-#Fill  Tippani here!!
+एकं भावं विष्णुम्। ॥ १८.२० ॥
 `
 {{% /details %}}
 

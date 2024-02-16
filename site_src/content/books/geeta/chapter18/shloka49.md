@@ -1,5 +1,5 @@
 ---
-title: "Shloka49"
+title: "श्लोक १८.XX- मोक्षसंन्यसयोग"
 date: 2024-02-15T06:23:31+05:30
 draft: false
 book:

@@ -1,23 +1,24 @@
 ---
-title: "Shloka38"
+title: "श्लोक १८.३८ - मोक्षसंन्यसयोग"
 date: 2024-02-15T06:22:58+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
-    prev_page: None
+    next_page: shloka39
+    prev_page: shloka36
     menu : geeta_menu
 ---
 
 
 
-## श्लोक TBD {class=text-center}
+## श्लोक १८.३८ {class=text-center}
 
 <br/>
 
 {{< shloka  "0"  >}}
 
-#Fill  The Shloka Here
+विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।  
+परिणामे विषमिव तत्सुखं राजसं स्मृतम् ॥ १८.३८ ॥
 
 {{< /shloka >}}
 
@@ -26,7 +27,7 @@ book:
 
 {{% details "श्रीमन्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
-#Fill  Tippani here!!
+*Refer to १८.३१*
 
 {{% /details %}}
 
@@ -34,13 +35,16 @@ book:
 
 {{% details "श्रीराघवेन्द्रतीर्थविरचित गीताविवृतिः " %}}
 
-#Fill  Tippani here!!
+`विषयेंद्रियसंयोगात्` शब्दादिविषयाणां शोत्रादींद्रियाणां 
+संयोगेनोत्पन्नविषयानुभवेन जायमानं `यत्तत्` प्रसिद्धं 
+`सुखं अग्रे` प्रथमम् `अमृतसदृशम्‌` विपाके `विषमिव` 
+दुःखावहत्वात्‌ । `तत्सुखं राजसमि`त्यर्थः ॥ १८.३८ ॥
 
 {{% /details %}}
 
 
-
 {{% details "पद विचार" %}}
 
+- विपाके : Change of form/state
 
 {{% /details %}}

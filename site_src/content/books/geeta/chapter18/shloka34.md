@@ -1,23 +1,24 @@
 ---
-title: "Shloka34"
+title: "श्लोक १८.३४ - मोक्षसंन्यसयोग"
 date: 2024-02-15T06:22:50+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
-    prev_page: None
+    next_page: shloka35
+    prev_page: shloka33
     menu : geeta_menu
 ---
 
 
 
-## श्लोक TBD {class=text-center}
+## श्लोक १८.३४ {class=text-center}
 
 <br/>
 
 {{< shloka  "0"  >}}
 
-#Fill  The Shloka Here
+यया तु धर्मकामार्थान् धृत्या धारयतेऽर्जुन ।  
+प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ॥ १८.३४ ॥
 
 {{< /shloka >}}
 
@@ -26,7 +27,7 @@ book:
 
 {{% details "श्रीमन्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
-#Fill  Tippani here!!
+*Refer to १८.३१*
 
 {{% /details %}}
 
@@ -34,7 +35,10 @@ book:
 
 {{% details "श्रीराघवेन्द्रतीर्थविरचित गीताविवृतिः " %}}
 
-#Fill  Tippani here!!
+
+`यया धृत्या धर्मकामार्थन्धारयते` । 
+`प्रसंगेन` प्रकृष्टेन  कर्मणि मदीयतास्नेहेन 
+`फलाकांक्षी धृतिः सा राजसी`त्यर्थः ॥ १८.३४ ॥
 
 {{% /details %}}
 

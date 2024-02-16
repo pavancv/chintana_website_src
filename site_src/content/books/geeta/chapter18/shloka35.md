@@ -1,46 +1,46 @@
 ---
-title: "Shloka35"
+title: "श्लोक १८.३५ - मोक्षसंन्यसयोग"
 date: 2024-02-15T06:22:52+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
-    prev_page: None
+    next_page: shloka36
+    prev_page: shloka34
     menu : geeta_menu
 ---
 
-
-
-## श्लोक TBD {class=text-center}
+## श्लोक १८.३५ {class=text-center}
 
 <br/>
 
 {{< shloka  "0"  >}}
 
-#Fill  The Shloka Here
+यया स्वप्नं भयं शोकं विषादं मदमेव च ।  
+न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ॥ १८.३५ ॥
 
 {{< /shloka >}}
 
 ---
 
-
 {{% details "श्रीमन्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
-#Fill  Tippani here!!
+*Refer to १८.३१*
 
 {{% /details %}}
-
 
 
 {{% details "श्रीराघवेन्द्रतीर्थविरचित गीताविवृतिः " %}}
 
-#Fill  Tippani here!!
+`यो दुर्मेधाः` दुष्टबुद्धिः पुरुषः `यया धृत्या` 
+`स्वप्नमतीवनिद्रां भयं शोकं दुःखं विषादं` 
+मनोदौर्बल्यं `मदं` च । `स्वप्ना`द्युपलक्षितं सर्व निषिद्धं 
+भगवद्वेषादि न `विमुञ्चति सा तामसी`त्यर्थः | ३५ ||
 
 {{% /details %}}
 
 
-
 {{% details "पद विचार" %}}
 
+- विमुञ्चति : Abandon, avoid, give up
 
 {{% /details %}}
