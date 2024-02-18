@@ -4,7 +4,7 @@ date: 2024-02-15T06:23:03+05:30
 draft: false
 book:
     toc_page: true
-    next_page: None
+    next_page: shloka41
     prev_page: shloka39
     menu : geeta_menu
 ---
