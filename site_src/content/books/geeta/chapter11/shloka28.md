@@ -46,5 +46,7 @@ book:
 
 {{% details "पद विचार" %}}
 
+- वक्त्र : Face
+-  
 
 {{% /details %}}
