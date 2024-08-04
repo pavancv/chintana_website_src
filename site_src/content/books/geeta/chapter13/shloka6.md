@@ -10,7 +10,6 @@ book:
 ---
 
 
-
 ## श्लोक १३.६ {class=text-center}
 
 <br/>
@@ -25,10 +24,9 @@ book:
 
 {{% details "श्रीमन्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
-*आचार्येण टिप्पणी नकृतः ।*
+*Refer to १३.७*
 
 {{% /details %}}
-
 
 
 {{% details "श्रीराघवेन्द्रतीर्थविरचित गीताविवृतिः " %}}
@@ -45,8 +43,8 @@ book:
 {{% /details %}}
 
 
-
 {{% details "पद विचार" %}}
 
+- अव्यक्तं : Jada prakruthi.. made of satva rajo tam
 
 {{% /details %}}

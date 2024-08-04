@@ -8,8 +8,7 @@ book:
     prev_page: shloka23
     menu : geeta_menu
 ---
-
-
+s
 
 ## श्लोक १४.२४ {class=text-center}
 
@@ -24,13 +23,11 @@ book:
 
 ---
 
-
 {{% details "श्रीमन्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
 तुल्यत्वार्थ उक्तः पुरस्तात्। ॥१४.२४, २५॥
 
 {{% /details %}}
-
 
 
 {{% details "श्रीराघवेन्द्रतीर्थविरचित गीताविवृतिः " %}}
@@ -67,5 +64,6 @@ book:
 
 - हेय :  to be left or abandoned.
 - प्रयच्छति : Offer
+- सम : Take as it
 
 {{% /details %}}

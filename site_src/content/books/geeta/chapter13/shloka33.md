@@ -42,7 +42,6 @@ book:
 {{% /details %}}
 
 
-
 {{% details "पद विचार" %}}
 
 

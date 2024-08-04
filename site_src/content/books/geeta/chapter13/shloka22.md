@@ -9,8 +9,6 @@ book:
     menu : geeta_menu
 ---
 
-
-
 ## श्लोक १३.२२ {class=text-center}
 
 <br/>

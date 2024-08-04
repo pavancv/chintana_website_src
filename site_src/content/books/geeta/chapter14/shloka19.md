@@ -10,7 +10,6 @@ book:
 ---
 
 
-
 ## श्लोक १४.१९ {class=text-center}
 
 <br/>

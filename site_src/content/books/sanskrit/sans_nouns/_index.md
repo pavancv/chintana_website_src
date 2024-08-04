@@ -13,4 +13,14 @@ book:
 
 Reference: https://www.sanskritabhyas.in/
 
-#### [अकरान्त / आकरान्त पदाः ]({{< ref "A_AA_Ending" >}})
+The examples are referenced from Laghu Sidhanta Kaumudi
+
+### पुल्लिङ्ग पदाः
+
+##### [अकरान्त / आकरान्त ]({{< ref "A_AA_Male_Ending" >}})
+##### [इकरान्त / ईकरान्त ]({{< ref "E_EE_Male_Ending" >}})
+
+<br/>
+
+### स्त्रील्लिङ्ग  पदाः
+##### [आकरान्त  ]({{}})
