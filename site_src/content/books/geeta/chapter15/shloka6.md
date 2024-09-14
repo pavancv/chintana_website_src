@@ -10,7 +10,6 @@ book:
 ---
 
 
-
 ## श्लोक १५.६ {class=text-center}
 
 <br/>

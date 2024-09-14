@@ -3,7 +3,7 @@ title: "Nouns E"
 date: 2024-07-02T10:43:44+05:45
 book:
     toc_page: false
-    next_page: None
+    next_page: U_UU_Male_Ending
     prev_page: ../sans_nouns
     menu : sanskrit_menu
 ---
