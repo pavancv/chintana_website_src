@@ -10,7 +10,6 @@ book:
 ---
 
 
-
 ## श्लोक १७.५ {class=text-center}
 
 <br/>
