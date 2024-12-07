@@ -10,7 +10,6 @@ book:
 ---
 
 
-
 ## श्लोक १८.७४ {class=text-center}
 
 <br/>
@@ -48,6 +47,8 @@ book:
 
 
 {{% details "पद विचार" %}}
+
+- अश्रौषम् : 
 
 
 {{% /details %}}

@@ -45,8 +45,9 @@ book:
 {{% /details %}}
 
 
-
 {{% details "पद विचार" %}}
 
+- उपेत :
+- असतः सत्तारूपप्रजननार्थे : From असतः to सत् Creation (transformation?)
 
 {{% /details %}}

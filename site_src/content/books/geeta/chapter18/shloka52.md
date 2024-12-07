@@ -42,5 +42,8 @@ book:
 
 {{% details "पद विचार" %}}
 
+- विविक्त : secluded,  isolated
+- संमर्द : Crowd
+- यतवाक्कायमानसः - यत(controlled/restrained) वाक्  काय मानसः
 
 {{% /details %}}

@@ -48,5 +48,6 @@ book:
 
 {{% details "पद विचार" %}}
 
+- प्रथन : Spread, display, show
 
 {{% /details %}}

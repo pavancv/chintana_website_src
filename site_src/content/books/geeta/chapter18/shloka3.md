@@ -50,5 +50,6 @@ book:
 
 {{% details "पद विचार" %}}
 
+- विप्रतिपत्ति : Difference 
 
 {{% /details %}}

@@ -10,7 +10,6 @@ book:
 ---
 
 
-
 ## श्लोक १८.१ {class=text-center}
 
 <br/>

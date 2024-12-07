@@ -42,6 +42,6 @@ book:
 
 {{% details "पद विचार" %}}
 
-- अनुपलंभे : non-perception
+- अनुपलंभे : non-perception ()
 
 {{% /details %}}

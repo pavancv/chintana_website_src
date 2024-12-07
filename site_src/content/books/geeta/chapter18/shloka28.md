@@ -10,7 +10,6 @@ book:
 ---
 
 
-
 ## श्लोक १८.२८  {class=text-center}
 
 <br/>
@@ -53,5 +52,7 @@ book:
 
 {{% details "पद विचार" %}}
 
+- क्कप्यनम्रः : क्कपि अनम्रः 
+- क्कपि : at any time
 
 {{% /details %}}

@@ -10,7 +10,6 @@ book:
 ---
 
 
-
 ## श्लोक १७.२२ {class=text-center}
 
 <br/>
@@ -23,7 +22,6 @@ book:
 {{< /shloka >}}
 
 ---
-
 
 {{% details "श्रीमन्मध्वाचार्यभगवत्पादाचर्य विरचित  गीताभाष्य" %}}
 
@@ -42,8 +40,8 @@ book:
 {{% /details %}}
 
 
-
 {{% details "पद विचार" %}}
 
+- अवज्ञातं : Disrespect, Despise
 
 {{% /details %}}
