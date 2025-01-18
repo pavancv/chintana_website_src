@@ -48,7 +48,7 @@ book:
 
 {{% details "पद विचार" %}}
 
-- अश्रौषम् : 
+- अश्रौषम् : listened
 
 
 {{% /details %}}

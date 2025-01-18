@@ -53,6 +53,6 @@ book:
 {{% details "पद विचार" %}}
 
 - अशुश्रूषवे : सेवाम् अकुर्वते 
-- अभ्यसूयति :
+- अभ्यसूयति : One who is jealous/envious of me
 
 {{% /details %}}

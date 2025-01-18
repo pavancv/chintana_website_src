@@ -5,7 +5,7 @@ book:
     toc_page: false
     menu : geeta_menu
     next_page: None
-    prev_page: ../chapter13
+    prev_page: ../chapter17
 ---
 
 <br/>
