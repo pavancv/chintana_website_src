@@ -23,11 +23,10 @@ book:
 | लृट्    | Future definite (Not today) `अनध्यतन भविष्यत्`     |
 | लोट्   | Request/Order(Imperative)  `क्रियातिपत्ति`           |
 | लेट्    | Vedas                                          |
-|       |                                                |
-|       |                                                |
+| --- | ----                                          |
 | लङ्    | Past `अध्यतन भूत`                                |
 | लिङ्   | (Two Types)                                    |
-|  -- आर्शि   | Benedictive                                |
+|  -- आशि   | Benedictive - Used to express desires unattained/unattainable                                |
 |  -- विधि  |   Potential                                 |
 | लुङ्    | cause-effect relation                          |
 | लृङ्    |  Conditional                                   |
@@ -78,3 +77,5 @@ Each verbs essentially has
 
 
 ### [भ्वादि गण]({{< ref "1STGroup" >}})
+
+### [अदादि गण]({{< ref "2NDGroup" >}})

@@ -8,14 +8,14 @@ book:
     menu : sanskrit_menu
 ---
 
-# Nouns / सुबन्ताः - नामपदाः
+# Nouns / सुबन्ताः - नामपदानि
 
 
 Reference: https://www.sanskritabhyas.in/
 
 The examples are referenced from Laghu Sidhanta Kaumudi
 
-### पुल्लिङ्ग पदाः
+### पुल्लिङ्ग पदानि
 
 ##### [अकरान्त / आकरान्त ]({{< ref "A_AA_Male_Ending" >}})
 ##### [इकरान्त / ईकरान्त ]({{< ref "E_EE_Male_Ending" >}})
@@ -27,5 +27,5 @@ The examples are referenced from Laghu Sidhanta Kaumudi
 
 <br/>
 
-### स्त्रील्लिङ्ग  पदाः
+### स्त्रील्लिङ्ग  पदानि
 ##### [आकरान्त  ]({{}})
